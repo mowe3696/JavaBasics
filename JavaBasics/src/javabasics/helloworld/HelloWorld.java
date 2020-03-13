@@ -1,5 +1,7 @@
 package javabasics.helloworld;
 
+// COMMENT FROM GITHUB
+
 public class HelloWorld {
 	
 	// checking for GIT update2
