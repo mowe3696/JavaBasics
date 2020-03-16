@@ -1,4 +1,4 @@
-package queue;
+package javabasics.queue;
 
 public class Queue {
 	

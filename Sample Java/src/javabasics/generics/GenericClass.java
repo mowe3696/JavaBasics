@@ -1,4 +1,4 @@
-package generics;
+package javabasics.generics;
 
 public class GenericClass<type> {
 	

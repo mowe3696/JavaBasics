@@ -1,4 +1,4 @@
-package linked;
+package javabasics.linked;
 
 public class LinkedList {
 	Node head;

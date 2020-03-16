@@ -1,4 +1,4 @@
-package lambda_demo;
+package javabasics.lambda_demo;
 
 // imagine you want to implement and run a method 
 // which is declared in an Interface
