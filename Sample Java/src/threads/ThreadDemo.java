@@ -1,4 +1,4 @@
-package javabasics.threads;
+package threads;
 
 // This class defines the method which is supposed to run in a thread
 class Printer{

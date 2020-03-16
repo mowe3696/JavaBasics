@@ -1,4 +1,4 @@
-package javabasics.helloworld;
+package helloworld;
 
 // COMMENT FROM GITHUB
 
