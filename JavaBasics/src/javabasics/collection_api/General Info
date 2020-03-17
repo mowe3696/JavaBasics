@@ -1,0 +1,17 @@
+Welche Container-Klasse nehmen?  Zur nächsten ÜberschriftZur vorigen Überschrift
+
+Bei der großen Anzahl von Klassen sind Entscheidungskriterien angebracht, nach denen Entwickler Klassen auswählen können. Die folgende Aufzählung soll einige Vorschläge geben:
+
+    Ist eine Sequenz, also eine feste Ordnung gefordert? Wenn ja, dann nimm eine Liste.
+
+    Soll es einen schnellen Zugriff über einen Index geben? Wenn ja, ist die ArrayList gegenüber der LinkedList im Vorteil.
+
+    Werden oft am Ende und Anfang Elemente eingefügt? Dann kann LinkedList punkten.
+
+    Wenn eine Reihenfolge der Elemente uninteressant ist, aber schnell entschieden werden soll, ob ein Element Teil einer Menge ist, erweist sich HashSet als interessant.
+
+    Sollen Elemente nur einmal vorkommen und immer sortiert bleiben? Dann ist TreeSet eine gute Wahl.
+
+    Muss es eine Assoziation zwischen Schlüssel und Elementen geben, ist eine Map von Vorteil.
+
+    
